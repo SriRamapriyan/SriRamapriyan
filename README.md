@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SriRamapriyan
-- 👀 I’m interested in python
+- 👀 A coder interested in bringing ideas into reality
 - 🌱 I’m currently learning python,c,c++,java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ramapriyandbs514@gmail.com
