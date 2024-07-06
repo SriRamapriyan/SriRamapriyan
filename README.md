@@ -19,4 +19,4 @@
 
 ### Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/sri-ramapriyan/)
-- [Email](mailto-ramapriyandbs514@gmail.com)
+- [Email](ramapriyandbs514@gmail.com)
