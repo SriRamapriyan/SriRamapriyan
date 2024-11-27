@@ -2,8 +2,8 @@
 👋 Hi, I'm Sri Ramapriyan, a passionate Junior Machine Learning Engineer with a keen interest in leveraging data to solve real-world problems. I have experience in developing and deploying machine learning models, and I'm always eager to learn new technologies and improve my skills.
 
 ### Skills
-- **Programming Languages:** HTML, CSS, Python, Kotlin
-- **Tools:** Tableau, Power BI, Excel, KNIME, GIT
+- **Programming Languages:** HTML, CSS, Python
+- **Tools:** Tableau, Power BI, Excel, GIT
 - **Machine Learning:** Algorithms, Computer Vision, Keras, TensorFlow
 - **Database:** MongoDB, MySQL
 
